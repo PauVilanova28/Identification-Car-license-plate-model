@@ -2,7 +2,7 @@
 
 This directory contains all the materials developed for a Computer Vision project as part of a course in the Data Engineering degree at the Universitat Autònoma de Barcelona (UAB). Below is a description of the folder structure and the content of each of its components.
 
-### Folder Structure
+## Folder Structure
 Localization: Contains different versions of the code used to develop the license plate localization system during the project.
 Segmentation: Includes the various versions implemented for the character segmentation process of the license plates.
 Recognition: Holds the versions of the code used to recognize the characters (letters and numbers) of the plates after segmentation.
